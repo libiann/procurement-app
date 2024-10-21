@@ -1,11 +1,12 @@
 # Created this project with Laravel 11.
 
 -   Packages installed
-    composer require laravel/breeze --dev
-    php artisan breeze:install
-    npm install
-    npm run dev
-    composer require maatwebsite/excel
+
+    composer require laravel/breeze --dev  
+    php artisan breeze:install  
+    npm install  
+    npm run dev  
+    composer require maatwebsite/excel  
     composer require barryvdh/laravel-dompdf
 
 -   Project setup
